@@ -39,6 +39,6 @@ GOOGLE_API=
 ## Author
 
 [SudhanPlayz](https://github.com/SudhanPlayz).  
-Authored and maintained by SudhanPlayz.
+Authored and maintained by SudhanPlayz & Doraemon.
 
 > GitHub [@SudhanPlayz](https://github.com/SudhanPlayz)
